@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
-import nightsImage from "../assets/images/inrcircle-nights.png";
+import nightsImage from "../assets/images/inrcircle-nights.webp";
 
 function InrCircleNights() {
   const [events, setEvents] = useState([]);
